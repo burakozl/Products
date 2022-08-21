@@ -1,0 +1,69 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 11,
+      "comment": "This is fresh apple",
+      "date": "2022-08-01T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 15,
+      "comment": "This is fresh mango",
+      "date": "2022-08-01T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Samsung",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "This is a new phone",
+      "date": "2022-08-03T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Iphone",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1500,
+      "comment": "Amazing phone is your serve",
+      "date": "2022-08-11T21:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Broccoli Rabe",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 7,
+      "comment": "not fresh",
+      "date": "2022-08-02T21:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Carrots",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 4,
+      "comment": "this is a fresh carrot",
+      "date": "2022-08-12T21:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Toast Machine",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 77,
+      "comment": "New product",
+      "date": "2022-08-19T21:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": []
+}
